@@ -7,3 +7,5 @@ https://www.youtube.com/DaveGrayTeachesCode
 
 La vidéo éducative: 
 https://www.youtube.com/watch?v=Dk6Wopar10k&t=3084s&ab_channel=TraversyMedia
+
+Dossier de démarrage(Coding along): https://github.com/gitdagray/search_app_tutorial
